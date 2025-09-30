@@ -1,0 +1,50 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Microtechnology"
+    ]
+  ],
+  "legacy_uid": "f57d7657-5e8b-62ef-5029-5ba322ea906f",
+  "instructors": {
+    "content": [
+      "a0f16e50-2187-bc7b-30e2-b96c94485ccb",
+      "98c06492-75d3-7843-0908-c67c6f17c333",
+      "85c4aa5f-def4-ed78-ac2f-7fa3884ff91b",
+      "b6a7911c-df2b-c358-e803-831719d754ba",
+      "40a5010f-768b-2baa-3654-c30d44cf1c43",
+      "c9216d3d-991e-efe7-e8d6-e754ae9c59de"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "eaff5ae1-8e1b-0b22-46de-af6b7a7a36e6",
+    "website": "2-674-micro-nano-engineering-laboratory-spring-2016"
+  },
+  "course_title": "Micro/Nano Engineering Laboratory",
+  "hide_download": true,
+  "course_description": "This course encourages creative thinking through hands-on experience via building, observing and manipulating micro-and nano-scale structures. Students learn about underlying science and engineering principles and possible applications.\n",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "2.675",
+  "primary_course_number": "2.674",
+  "course_image_thumbnail": {
+    "content": "e1bf10f1-be41-2ab6-affb-a6798c422abd",
+    "website": "2-674-micro-nano-engineering-laboratory-spring-2016"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "5a9cba80-158e-4779-82f0-666a1d1c385b",
+  "site_short_id": "2.674-spring-2016",
+  "site_url_path": "courses/2-674-micro-nano-engineering-laboratory-spring-2016",
+  "title": "Course Metadata"
+}
