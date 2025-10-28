@@ -5,8 +5,6 @@ description: 'This resource contains information regarding micro/nano engineerin
 file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/545735bc7f0d007fa7937be04f0cfda8_MIT2_674S16_Lec1aSaftyRev.pdf
 file_size: 5799051
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

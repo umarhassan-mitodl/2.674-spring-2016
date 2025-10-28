@@ -4,8 +4,6 @@ description: This file contains the information regarding Microfluidic Hydrodyna
 file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/e01a4c051cc3ac772245a1606674efbb_MIT2_674S16_LabNote3_5.pdf
 file_size: 1191631
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

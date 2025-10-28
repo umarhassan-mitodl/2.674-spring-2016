@@ -5,8 +5,6 @@ description: This resource contains information regarding Nanomaterials Synthesi
 file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/5a9675da058aaeab7e24f902ef2bf35e_MIT2_674S16_Lec7Nano.pdf
 file_size: 3346077
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

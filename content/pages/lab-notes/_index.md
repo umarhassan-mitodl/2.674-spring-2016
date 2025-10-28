@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section includes lab notes and lab references.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Lab Notes
@@ -84,10 +82,10 @@ References
 
 {{% resource_link 86aad5b7-d546-011e-2392-e59f978d1a46 "Atomic Force Microscopy Lab Introduction (PDF - 1.2MB)" %}}
 
-[Sony Digital Camera Module Technical Manual (PDF)](https://pro.sony.com/bbsc/assetDownloadController/XCDV60_V60CR_SX90_SX90CR_U100_U100CR_Technical_Manual.pdf?path=Asset%20Hierarchy$Professional$SEL-yf-generic-153703$SEL-yf-generic-153738SEL-asset-116864.pdf&id=StepID$SEL-asset-116864$original&dimension=original)
+{{% resource_link "2df0e0b8-e7b6-4724-8f25-8b4950112f87" "Sony Digital Camera Module Technical Manual (PDF)" %}}
 
 {{% resource_link 692eb8f4-4606-291b-6612-d3c2ca17380a "Microscope Conversions" %}}
 
 {{% resource_link c380f116-375b-9e68-d925-43feddc0311e "Food Dyes (PDF)" %}}
 
-Meshot, Eric R., Desirée L. Plata, et al. "[Engineering Vertically Aligned Carbon Nanotube Growth by Decoupled Thermal Treatment of Precursor and Catalyst](https://doi.org/10.1021/nn900446a)." _ACS Nano_ 3, no. 9 (2009): 2477–86.
+Meshot, Eric R., Desirée L. Plata, et al. "{{% resource_link "a887bfcf-4266-4f80-bc72-e20e2149bbdc" "Engineering Vertically Aligned Carbon Nanotube Growth by Decoupled Thermal Treatment of Precursor and Catalyst" %}}." _ACS Nano_ 3, no. 9 (2009): 2477–86.

@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/5901cd21ac2618ec21240ebbe12c96a3_MIT2_674S16_Lec2MEMS.pdf
 file_size: 740497
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

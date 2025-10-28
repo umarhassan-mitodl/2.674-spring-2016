@@ -4,8 +4,6 @@ description: This file contains the information regarding Mirofluidic mixing.
 file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/f28f8672e6386d65276d2e6776ae8611_MIT2_674S16_MicrofluidcMix.pdf
 file_size: 1209679
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

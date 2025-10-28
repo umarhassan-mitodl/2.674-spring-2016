@@ -4,8 +4,6 @@ description: ''
 file: /courses/2-674-micro-nano-engineering-laboratory-spring-2016/61dcf5585f8ea9e67c17ed784bcd85f4_MIT2_674S16_Lec10graphene.pdf
 file_size: 3288496
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
